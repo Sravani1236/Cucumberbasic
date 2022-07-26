@@ -42,12 +42,12 @@
         </dependency>
 
     </dependencies>
-         <build>
+         
                   <plugin>
-  <artifactId>maven-war-plugin</artifactId>
-  <version>3.0.0</version>
-</plugin>
-         </build>
+                           <artifactId>maven-war-plugin</artifactId>
+                            <version>3.0.0</version>
+                  </plugin>
+         
 
     
 </project>
